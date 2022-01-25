@@ -1,0 +1,15 @@
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Idade\obj\Debug\net6.0\Calculadora_Idade.csproj.AssemblyReference.cache
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Idade\obj\Debug\net6.0\Calculadora_Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Idade\obj\Debug\net6.0\Calculadora_Idade.AssemblyInfoInputs.cache
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Idade\obj\Debug\net6.0\Calculadora_Idade.AssemblyInfo.cs
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Idade\obj\Debug\net6.0\Calculadora_Idade.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Idade\bin\Debug\net6.0\Calculadora_Idade.exe
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Idade\bin\Debug\net6.0\Calculadora_Idade.deps.json
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Idade\bin\Debug\net6.0\Calculadora_Idade.runtimeconfig.json
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Idade\bin\Debug\net6.0\Calculadora_Idade.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Idade\bin\Debug\net6.0\ref\Calculadora_Idade.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Idade\bin\Debug\net6.0\Calculadora_Idade.pdb
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Idade\obj\Debug\net6.0\Calculadora_Idade.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Idade\obj\Debug\net6.0\ref\Calculadora_Idade.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Idade\obj\Debug\net6.0\Calculadora_Idade.pdb
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Calculadora_Idade\obj\Debug\net6.0\Calculadora_Idade.genruntimeconfig.cache
